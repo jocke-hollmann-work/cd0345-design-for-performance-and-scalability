@@ -1,0 +1,9 @@
+Task 2, to calculate Infrastructure Costs, is under-specified as it is only
+known, that 50000 users will use the system, but neither how much they will
+use it nor how the application will behave. Also normal you would do the
+calculations based on your needs and not to have a certain price tag...
+
+To have a realistic example, I would have needed a lot more input data, like
+frequency of incoming requests, amount of data transferred (images? mostly
+text?) and so on.
+
